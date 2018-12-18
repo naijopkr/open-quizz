@@ -1,6 +1,6 @@
 [submodule "open-quizz-api"]
 	path = open-quizz-api
-	url = git@github.com:naijopkr/open-quizz.git
+	url = git@github.com:naijopkr/open-quizz-api.git
 [submodule "open-quizz-web"]
 	path = open-quizz-web
 	url = git@github.com:naijopkr/open-quizz.git
